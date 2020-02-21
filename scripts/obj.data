@@ -1,0 +1,5 @@
+classes= 4
+train  = train.txt
+valid  = test.txt
+names = /home/sunho/catkin_ws/src/traffic_light/scripts/obj.names
+backup = backup/
