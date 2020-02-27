@@ -15,3 +15,9 @@
     
  Please correct the above line to fit your computer
  
+ 3. You have to change darknet.py
+
+    lib = CDLL("/home/sunho/catkin_ws/src/zero_traffic_light/scripts/libdarknet.so", RTLD_GLOBAL)
+
+Please correct the above line
+ 
